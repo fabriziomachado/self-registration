@@ -1,0 +1,7 @@
+{
+  "name": "Smart Selfie Capture",
+  "description": "A high-fidelity automated face capture system with real-time feedback and AI-powered quality verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
